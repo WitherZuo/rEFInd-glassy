@@ -1,8 +1,6 @@
 # Glassy
 ## A minimalistic rEFInd theme
 
-![Glassy](preview.png)
-
 ### Usage
 
  1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind`
